@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/CodePalaceDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ContacListJosh" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ContactFormCorrect" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ContactFormRecyclerview_August9" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ContactListDavid" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CounterVM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DenisPanjutaRecyclerView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EmployeeList" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EmployeeList_August9" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ForecastApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FragmentToFragmentCommunication" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KotlinActivity1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KotlinContactList" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ListOfLanguages" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MVVMNewsApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MyIntentService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PhilippLacknerHilt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RetrofitCrashCourse" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SingleActivity-August-9" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SingleActivity-August9" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TriviaJson_August9" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TriviaRecyclerView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/views-widgets-samples" vcs="Git" />
+  </component>
+</project>
